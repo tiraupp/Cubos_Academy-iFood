@@ -41,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🧙‍♂️ Autor
 
 <a href="https://www.linkedin.com/in/tiago-raupp/">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQHaefl1HLvVUw/profile-displayphoto-shrink_800_800/0/1680632915643?e=1692835200&v=beta&t=SAqnu3sQu_ZBE2NSIe5FbZP78i66qTKRhd_caV5yZ_I" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQGzl9rUDFHxRg/profile-displayphoto-shrink_800_800/0/1687372361048?e=1692835200&v=beta&t=tUiLF4_A2TITwZVZO-4MCYLZxPUKgwHf1yijyefY1lg" width="100px;" alt=""/>
  <br />
  <sub><b>Tiago Raupp</b></sub></a> <a href="https://www.linkedin.com/in/tiago-raupp/" title="Cubos Academy">✨</a>
  <br />
