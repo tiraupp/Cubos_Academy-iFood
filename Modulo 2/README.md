@@ -4,7 +4,7 @@
 ![](https://camo.githubusercontent.com/9024d29d7212d5e020ecea830c7b9cf5ba9a47cb2f3dfc771c399233a536d1e9/68747470733a2f2f6c6f676f706e672e636f6d2e62722f6c6f676f732f69666f6f642d34332e737667)
 
 <h4 align="center"> 
-	🚧 Exercícios para aula Cubos Academy 🚧
+	🚧 Exercícios módulo 01 🚧
 </h4>
 
 <p align="center">
@@ -36,7 +36,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 -   Runtime JavaScript: **[Node.js](https://nodejs.org/pt-br)**
--   Pacote: **[readlineSync](https://github.com/anseki/readline-sync)**
 -   Pacote: **[npm](https://www.npmjs.com)**
 -   Pacote: **[express](https://github.com/expressjs/express)**
 
@@ -45,7 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🧙‍♂️ Autor
 
 <a href="https://www.github.com/tiraupp">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQE_6WyjMLlhUg/profile-displayphoto-shrink_800_800/0/1689184256141?e=1695254400&v=beta&t=e_yLmHXHnXtxgJEHGQK-6gDaYbgmvRhQEmtptWCYuOo" width="100px;" alt=""/>
+ <img src="https://media.licdn.com/dms/image/D4D03AQE_6WyjMLlhUg/profile-displayphoto-shrink_800_800/0/1689184256141?e=1695254400&v=beta&t=e_yLmHXHnXtxgJEHGQK-6gDaYbgmvRhQEmtptWCYuOo" width="100px;" style="border-radius: 50px;" alt=""/>
  <br />
  <sub><b>Tiago Raupp</b></sub></a> <a href="https://www.github.com/tiraupp" title="Cubos Academy">✨</a>
  <br />

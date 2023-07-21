@@ -35,16 +35,17 @@ A Cubos Academy é uma escola com cursos de tecnologia para todos os perfis, do 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 -   Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
+-   Runtime JavaScript: **[Node.js](https://nodejs.org/pt-br)**
 -   Pacote: **[readlineSync](https://github.com/anseki/readline-sync)**
 
 ---
 
 ## 🧙‍♂️ Autor
 
-<a href="https://www.figma.com/@tiraupp">
- <img src="https://media.licdn.com/dms/image/D4D03AQGzl9rUDFHxRg/profile-displayphoto-shrink_800_800/0/1687372361048?e=1692835200&v=beta&t=tUiLF4_A2TITwZVZO-4MCYLZxPUKgwHf1yijyefY1lg" width="100px;" style="border-radius: 50px;" alt=""/>
+<a href="https://www.github.com/tiraupp">
+ <img src="https://media.licdn.com/dms/image/D4D03AQE_6WyjMLlhUg/profile-displayphoto-shrink_800_800/0/1689184256141?e=1695254400&v=beta&t=e_yLmHXHnXtxgJEHGQK-6gDaYbgmvRhQEmtptWCYuOo" width="100px;" style="border-radius: 50px;" alt=""/>
  <br />
- <sub><b>Tiago Raupp</b></sub></a> <a href="https://www.figma.com/@tiraupp" title="Cubos Academy">✨</a>
+ <sub><b>Tiago Raupp</b></sub></a> <a href="https://www.github.com/tiraupp" title="Cubos Academy">✨</a>
  <br />
 
 ---
