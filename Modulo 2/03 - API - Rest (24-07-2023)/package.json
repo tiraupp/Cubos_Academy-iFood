@@ -1,0 +1,29 @@
+{
+  "name": "exercicios-backend-api-rest",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev01": "nodemon ./01/src/index.js",
+    "dev02": "nodemon ./02/src/index.js",
+    "dev03": "nodemon ./03/src/index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiraupp/exercicios-backend-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiraupp/exercicios-backend-api-rest/issues"
+  },
+  "homepage": "https://github.com/tiraupp/exercicios-backend-api-rest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
