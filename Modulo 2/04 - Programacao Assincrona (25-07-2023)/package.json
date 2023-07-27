@@ -1,0 +1,26 @@
+{
+  "name": "exercicios-backend-programacao-assincrona",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev01": "nodemon ./01/src/index.js",
+    "dev02": "nodemon ./02/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiraupp/exercicios-backend-programacao-assincrona.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiraupp/exercicios-backend-programacao-assincrona/issues"
+  },
+  "homepage": "https://github.com/tiraupp/exercicios-backend-programacao-assincrona#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "utils-playground": "^1.3.1"
+  }
+}
