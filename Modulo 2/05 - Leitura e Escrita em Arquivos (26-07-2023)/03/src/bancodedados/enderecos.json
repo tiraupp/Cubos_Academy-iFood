@@ -1,0 +1,50 @@
+[
+    {
+        "cep": "88900-015",
+        "logradouro": "Avenida Sete de Setembro",
+        "complemento": "de 900 a 1900 - lado par",
+        "bairro": "Centro",
+        "localidade": "Araranguá",
+        "uf": "SC",
+        "ibge": "4201406",
+        "gia": "",
+        "ddd": "48",
+        "siafi": "8027"
+    },
+    {
+        "cep": "88965-000",
+        "logradouro": "",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Santa Rosa do Sul",
+        "uf": "SC",
+        "ibge": "4215653",
+        "gia": "",
+        "ddd": "48",
+        "siafi": "9967"
+    },
+    {
+        "cep": "88960-000",
+        "logradouro": "",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Sombrio",
+        "uf": "SC",
+        "ibge": "4217709",
+        "gia": "",
+        "ddd": "48",
+        "siafi": "8349"
+    },
+    {
+        "cep": "88970-000",
+        "logradouro": "",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "São João do Sul",
+        "uf": "SC",
+        "ibge": "4216404",
+        "gia": "",
+        "ddd": "48",
+        "siafi": "8323"
+    }
+]
