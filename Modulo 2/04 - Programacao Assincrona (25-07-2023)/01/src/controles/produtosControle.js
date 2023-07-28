@@ -2,7 +2,6 @@ const { produtos } = require("../bancodedados/produtos");
 const { getStateFromZipcode } = require("utils-playground");
 
 const listarProdutos = (req, res) => {
-    console.log(produtos);
     return res.status(200).json(produtos);
 };
 
